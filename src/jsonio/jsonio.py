@@ -4,7 +4,6 @@ import copy
 import logging
 from abc import ABC, abstractmethod
 
-# Configure logger for this module
 logger = logging.getLogger(__name__)
 
 """
