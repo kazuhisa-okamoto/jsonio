@@ -3,7 +3,7 @@
 
 A base class that enables serialization and deserialization of Python object member variables to and from JSON files.
 * Multiple class data can be managed in one file.
-* Lists or tuples containing objects are not supported.
+* Lists or tuples containing custom objects are not supported.
 
 ## Usage
 ### Inherit JsonIO in own classes
