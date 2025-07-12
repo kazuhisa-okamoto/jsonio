@@ -1,0 +1,32 @@
+{
+    "AnotherConfig": {
+        "name": "TestApp",
+        "count": 100,
+        "items": [
+            "item1",
+            "item2",
+            "item3"
+        ],
+        "settings": {
+            "enabled": true,
+            "timeout": 60
+        }
+    },
+    "MyConfig": {
+        "strdata": "strdata",
+        "numdata": 42,
+        "dictdata": {
+            "bool_value": false,
+            "float_value": 3.14,
+            "sub_config": {
+                "listdata": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            }
+        }
+    }
+}
